@@ -1,0 +1,19 @@
+{
+  "name": "comment_widget",
+  "version": "1.0.0",
+  "description": "flipkart machine coding question",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faisalmoinuddin99/frontend_machine_coding_round.git"
+  },
+  "author": "faisal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faisalmoinuddin99/frontend_machine_coding_round/issues"
+  },
+  "homepage": "https://github.com/faisalmoinuddin99/frontend_machine_coding_round#readme"
+}
